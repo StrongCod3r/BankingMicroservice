@@ -6,6 +6,5 @@ Tech:
 - C# and .NET 8
 - EntityFramework 8
 - Kafka
-- Mono
 - MySql
 - MongoDB
