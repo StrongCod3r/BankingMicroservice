@@ -1,6 +1,4 @@
 # BankingMicroservice
-Banking Microservice
-
 
 Proof of concept in building a bank account microservice.
 
